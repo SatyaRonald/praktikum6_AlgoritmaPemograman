@@ -1,1 +1,1 @@
-# praktikum6_AlgoritmaPemograman
+# praktikum6_AlgoritmaPemrograman
